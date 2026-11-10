@@ -1,0 +1,3 @@
+station Number:D22106
+board markings:LED 25, ADC 34
+Names: Alexnader MacLean and Mehdi Lammissi
